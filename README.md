@@ -10,9 +10,9 @@ Follow the commands below to clone this repository on your system
 
 ```bash
 
-1. git clone https://github.com/shaan71845/instagram-clone.git
+1. git clone https://github.com/saksham0309/Instagram-clone.git
 
-2. cd instagram-clone
+2. cd Instagram-clone
 
 3. npm install
 
