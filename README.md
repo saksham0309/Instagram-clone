@@ -65,6 +65,5 @@ Follow the commands below to clone this repository on your system
   
   
 
-### 👇 Live Demo - 
-[Click here](https://instagram-clone-dbe40.web.app//) to go to the Live Demo 🔥 🔥
+
 
