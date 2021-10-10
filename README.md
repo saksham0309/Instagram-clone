@@ -22,9 +22,9 @@ Follow the commands below to clone this repository on your system
 
   
 
-## ⏬ Tech Used
+## Tech Used
 
-* ReactJS 🔥
+* ReactJS
 
 * Firebase
 
@@ -35,18 +35,18 @@ Follow the commands below to clone this repository on your system
   
   
 
-## 👇 Features
+## Features
 
-* ⚒ Authentication with Email/Password and Google OAuth.
+* Authentication with Email/Password and Google OAuth.
 
-* 🖼️ Picture uploading.
+* Picture uploading.
 
-* 🌈 Hashtags Highlighting.
-* 🏛️ Private Routing
+* Hashtags Highlighting.
+* Private Routing
 
   
 
-## 📷 Screenshots
+## Screenshots
 > Login Page
 <img src="https://user-images.githubusercontent.com/48273777/114642482-9ffad780-9cf1-11eb-8002-de020d5c7ef9.png" width="500" title="Login Page"/>
 
